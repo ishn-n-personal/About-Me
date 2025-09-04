@@ -5,23 +5,23 @@ I am focused on building efficient, maintainable, and user-friendly software. My
 
 ---
 
-## 🔧 Skills & Technologies  
+## Skills & Technologies  
 - **Languages:** Python, Swift, C  
 - **Tools & Platforms:** Git, GitHub, VS Code, Xcode, macOS Development  
 - **Core Areas:** Software Engineering, Data Structures & Algorithms, UI/UX Design Concepts  
 
 ---
 
-## 📂 Selected Projects  
+## Selected Projects  
 - **Flow** – A minimalist Pomodoro-style timer app for macOS  
 - **Solo Leveling Fitness Tracker** – Android fitness application with automated task system  
 - **Game Design Concepts** – Custom mechanics and item systems for Minecraft  
 
 ---
 
-## 📫 Contact  
-- 📧 Email: *[your email]*  
-- 🌐 Website/Portfolio: *[your link if available]*  
+## Contact  
+- Email: *ishn.n.personal@gmail.com*  
+- Website/Portfolio: *framer.omorice.website* 
 
 ---
 
