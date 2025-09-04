@@ -21,8 +21,7 @@ I am focused on building efficient, maintainable, and user-friendly software. My
 
 ## Contact  
 - Email: *ishn.n.personal@gmail.com*  
-- Website/Portfolio: *framer.omorice.website* 
 
 ---
 
-⚡ *Driven by precision, clarity, and continuous improvement.*  
+Small changes ripple into lasting improvement.
