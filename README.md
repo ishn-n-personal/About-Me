@@ -20,7 +20,7 @@ I am focused on building efficient, maintainable, and user-friendly software. My
 ---
 
 ## Contact  
-- Email: *ishn.n.personal@gmail.com*  
+- Email: ishn.n.personal@gmail.com  
 
 ---
 
